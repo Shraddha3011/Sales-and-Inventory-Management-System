@@ -32,3 +32,9 @@ keep track of the profitability of a business.
 The primary purpose of inventory management is to ensure there is
 enough goods or materials to meet demand without creating overstock,
 or excess inventory
+
+# Presentation of the project is in :
+Sales and Inventory Management Syatem file 
+
+# Screenshots of Implementation is in:
+Demo file
